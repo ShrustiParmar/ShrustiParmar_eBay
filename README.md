@@ -30,6 +30,7 @@ It allows clients to book seats on a flight using a known flight number, ensurin
 - Java 17
 - Spring Boot
 - Maven
+- Postman
 
 ---
 
